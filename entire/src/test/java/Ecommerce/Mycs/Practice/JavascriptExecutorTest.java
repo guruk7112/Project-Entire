@@ -49,6 +49,8 @@ public class JavascriptExecutorTest {
 		
 
 		action.scrollByAmount(0, -1000).perform();    //scroll to top
+		
+		//modified
 
 	}
 }
